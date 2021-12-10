@@ -4,10 +4,7 @@
 \alias{test}
 \title{Function}
 \usage{
-test(good)
-}
-\arguments{
-\item{good}{good argument}
+test()
 }
 \description{
 Function
